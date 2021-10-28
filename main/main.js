@@ -1,5 +1,5 @@
 //REFERENZE
-const menuTogge = document.querySelector(".header-right > a");
+const menuToggle = document.querySelector('.header-right > a');
 const hamburgerMenu = document.querySelector('.hamburger-menu')
 const closeButton = document.querySelector('.close');
 
